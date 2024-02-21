@@ -1,0 +1,20 @@
+---
+hours: 0
+max_score: 9999
+sort: new
+clear_vote: false
+item: overview
+whitelist: []
+whitelist_ids: []
+multi_blacklist: []
+multi_whitelist: []
+trial_run: false
+whitelist_distinguished: false
+whitelist_gilded: False
+nuke_hours: 500
+keep_a_copy: false
+replacement_format: random
+log_level: INFO
+wordlist: []
+batch_cooldown: 10
+# vim: syntax=yaml ts=2
